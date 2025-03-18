@@ -1,0 +1,23 @@
+body{
+   margin: 50px;
+}
+.containe{
+    display: flex; 
+    background-color: blue;
+    align-items:center;
+    margin: 50px;
+    gap: 100px;
+    justify-content: space-around;
+
+}
+
+background-color: 
+align-items: 
+margin
+gap: 
+justify-content: 
+padding-right: 
+padding-left: 
+padding-top: 
+padding-bottom:
+border: 2px solid #fff;
