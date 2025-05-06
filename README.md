@@ -1,8 +1,13 @@
 # Olá, eu sou Gabriel Gutierres! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=header)
+
  
-🔭 Atualmente trabalhando na Workonnection.
+🔭 Atualmente trabalhando na ...
+
 📖 Estudando na Fatec Diadema (DSM)
-🌱 Aprendendo CSS, JS, Python e HTML.    
+
+🌱 Aprendendo CSS, JS, Python e HTML.
+
 📫 Como me encontrar: gabrielsilvaguti@gmail.com  
  
 ## 🛠 Tecnologias que uso
