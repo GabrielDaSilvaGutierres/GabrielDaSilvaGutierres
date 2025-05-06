@@ -18,6 +18,7 @@
  
 ## 📊 Estatísticas do GitHub
 ![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielDaSilvaGutierres&show_icons=true&theme=radical)
- 
+
+ 🎧 [O que estou ouvindo](https://spotify-github-profile.vercel.app/api/view?uid=3np116evyt4ewo2qft5hc247x)
 ## 🌟 Projetos em Destaque
 - Workonnection(https://github.com/Hugo-Oliveira9/Grupo6.git)
